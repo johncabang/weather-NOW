@@ -47,20 +47,3 @@ h2 {
   font-weight: 800;
   color: #dbe8ff;
 }
-
-.navbar-container {
-  color: #fff;
-  font-size: 1.5rem;
-  font-weight: bold;
-  height: 3rem;
-  width: 100%;
-  position: fixed;
-  display: flex;
-  align-items: center;
-  padding-left: 2rem;
-}
-
-.navbar-logo {
-  height: 2rem;
-  padding-right: 1rem;
-}
