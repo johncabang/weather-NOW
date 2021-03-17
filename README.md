@@ -2,6 +2,10 @@
 
 A minimal React web application for your daily weather forecast.
 
+### View Demo
+
+https://weather-now-web-app.herokuapp.com/
+
 ### Dependencies
 
 - React
